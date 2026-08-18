@@ -1,0 +1,44 @@
+.filho1 {
+    display: flex;
+    justify-content: center;
+}
+
+
+/* .filho2 {
+    display: flex;
+    justify-content: flex-end;
+} */
+
+
+
+/* .filho2 {
+    display: flex;
+    justify-content: flex-start;
+} */
+
+
+
+ .pai {
+    display: flex;
+    justify-content: flex-end;
+} 
+
+
+/* .pai {
+    display: flex;
+    justify-content: space-between;
+} */
+
+
+
+/* .pai {
+    display: flex;
+    justify-content: space-around;
+} */
+
+
+
+/* .pai {
+    display: flex;
+    justify-content: space-evenly;
+}  */
